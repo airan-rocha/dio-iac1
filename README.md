@@ -1,8 +1,8 @@
 # Projeto iac1 da Dio
 
-A finalidade desse projeto é para fins acadêmicos. A sua propósta é a criação de um arquivo .sh para automatizar a criação de certos diretórios e usuários em servidores Linux.
+A finalidade desse projeto é para fins acadêmicos. A sua proposta é a criação de um arquivo .sh para automatizar a criação de certos diretórios e usuários em servidores Linux.
 
-Ao executar esse arquivo através do terminal da sua distro Linux, você verá que foram criados usuários, grupos e diretórios conforme as instruções contidas no arquivo.
+Ao executar o arquivo iac1.sh através do terminal da sua distro Linux, você verá que foram criados usuários, grupos e diretórios conforme as instruções contidas no arquivo.
 
 Para exetucar esse aquivo primeiramente é ncessário baixá-lo, depois pelo terminal, dar a permissão para ele ser excutado, conforme o comando abaixo:
 
